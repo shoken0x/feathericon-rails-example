@@ -1,3 +1,9 @@
+PATH
+  remote: /Users/shoken/git/feathericon-sass
+  specs:
+    feathericon-sass (1.0.2)
+      sassc (~> 2.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -155,6 +161,7 @@ PLATFORMS
 
 DEPENDENCIES
   byebug
+  feathericon-sass!
   listen (~> 3.3)
   puma (~> 5.0)
   rails (~> 6.1.3)
