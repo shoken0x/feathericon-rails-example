@@ -1,24 +1,8 @@
-# README
+<h1 align="center">Example Rails App for feathericon-sass</h1>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Links
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- https://feathericon.github.io/feathericon/
+- https://github.com/feathericon/feathericon
+- https://github.com/feathericon/feathericon-rails
+- https://github.com/feathericon/feathericon-sass
